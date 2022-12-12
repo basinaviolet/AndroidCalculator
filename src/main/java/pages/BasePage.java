@@ -1,11 +1,7 @@
 package pages;
 
-import driver.AppiumDriverManager;
-import driver.Driver;
-import driver.MobileDriver;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.pagefactory.AppiumFieldDecorator;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 
 public abstract class BasePage {

@@ -1,10 +1,9 @@
 package tests;
 
 import driver.AppiumDriverManager;
-import driver.MobileDriver;
 import io.appium.java_client.android.AndroidDriver;
-import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeAll;
+import pages.MainPage;
 
 public class BaseTest {
 
@@ -24,8 +23,9 @@ public class BaseTest {
 
 //    @AfterEach
 //    public void closeSession() {
-//        AppiumDriverManager.closeDriver();
-//        AppiumDriverManager.closeAppium();
-//        AppiumDriverManager.closedEmulator();
-//    }
+ //       AppiumDriverManager.closeDriver();
+ //       AppiumDriverManager.closeAppium();
+ //       AppiumDriverManager.closedEmulator();
+
+  //  }
 }

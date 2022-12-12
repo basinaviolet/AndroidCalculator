@@ -1,4 +1,4 @@
-package driver;
+package forDelete;
 
 import configuration.AppiumSession;
 import configuration.CapabilitiesConfigurator;
